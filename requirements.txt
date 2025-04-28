@@ -1,0 +1,11 @@
+google-generativeai
+google-genai
+langchain-google-genai
+google-cloud-aiplatform
+langchain
+langchain-community
+langchain-google-vertexai
+jupyter
+python-dotenv
+openai
+docker
