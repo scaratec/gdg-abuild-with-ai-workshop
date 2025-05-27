@@ -38,4 +38,4 @@ export GOOGLE_CLOUD_QUOTA_PROJECT="randy-gupta-workspace"
 # Sets the `GOOGLE_APPLICATION_CREDENTIALS` environment variable.
 # This points Google Cloud client libraries (used by applications)
 # to the service account key file for authentication.
-export GOOGLE_APPLICATION_CREDENTIALS="/home/randy/Projekte/privat/randy-gupta-workspace/terraform/randy-gupta-workspace-beae37726ae2.json"
+export GOOGLE_APPLICATION_CREDENTIALS="/home/randy/Projekte/gdg/vertex-ai/randy-gupta-workspace-7cef62db77ad.json"
